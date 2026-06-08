@@ -13,13 +13,15 @@
 </p>
 
 <p align="center">
-  <a href="./Thesis%20Daniil%20Deltsov.docx">Thesis</a>
+  <a href="./Master_Dissertation_Daniil_Deltsov.pdf">Thesis</a>
   &nbsp;·&nbsp;
   <a href="./model_experiments.ipynb">Controlled comparison</a>
   &nbsp;·&nbsp;
   <a href="./dino_finetune.ipynb">DINO fine-tuning</a>
   &nbsp;·&nbsp;
   <a href="./dashcam_demo.ipynb">Dashcam demo</a>
+  &nbsp;·&nbsp;
+  <a href="./presentation/Deltsov_D_A_SSL.pptx">Slides</a>
 </p>
 
 ---
